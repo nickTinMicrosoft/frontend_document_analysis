@@ -1,6 +1,8 @@
 # Front End With Document Processing
 
-The frontend application was extrated from https://github.com/MSUSAzureAccelerators/Azure-Cognitive-Search-Azure-OpenAI-Accelerator. Original files are in Appsj --> Frontend --> App
+The frontend application was extrated from https://github.com/MSUSAzureAccelerators/Azure-Cognitive-Search-Azure-OpenAI-Accelerator. 
+
+Original files are in Apps --> Frontend --> App
 
 To run locally do the following:
 1. clone repo
@@ -15,4 +17,4 @@ To run locally do the following:
     - in root of app folder type and execute
         ``` streamlit run Home.py ```
 
-** Not all of the pages will work. This frontend was built specifically for Document Processing, Page 4
+### Not all of the pages will work. This frontend was built specifically for Document Processing, Page 4
